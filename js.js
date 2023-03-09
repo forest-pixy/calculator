@@ -1,7 +1,7 @@
  
 const v = document.querySelector('.preloader');
 setTimeout (function(){
-    v.classList.add("preloader-remove");}, 2000);
+    v.classList.add("preloader-remove");}, 1500);
 
 
 document.querySelector(`button`).onclick = result;
